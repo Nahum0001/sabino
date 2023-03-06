@@ -1,0 +1,15 @@
+C:\Users\Nahum\Documents\IO2\metodoM\metodoM\bin\Debug\net6.0\metodoM.exe
+C:\Users\Nahum\Documents\IO2\metodoM\metodoM\bin\Debug\net6.0\metodoM.deps.json
+C:\Users\Nahum\Documents\IO2\metodoM\metodoM\bin\Debug\net6.0\metodoM.runtimeconfig.json
+C:\Users\Nahum\Documents\IO2\metodoM\metodoM\bin\Debug\net6.0\metodoM.dll
+C:\Users\Nahum\Documents\IO2\metodoM\metodoM\bin\Debug\net6.0\metodoM.pdb
+C:\Users\Nahum\Documents\IO2\metodoM\metodoM\obj\Debug\net6.0\metodoM.csproj.AssemblyReference.cache
+C:\Users\Nahum\Documents\IO2\metodoM\metodoM\obj\Debug\net6.0\metodoM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nahum\Documents\IO2\metodoM\metodoM\obj\Debug\net6.0\metodoM.AssemblyInfoInputs.cache
+C:\Users\Nahum\Documents\IO2\metodoM\metodoM\obj\Debug\net6.0\metodoM.AssemblyInfo.cs
+C:\Users\Nahum\Documents\IO2\metodoM\metodoM\obj\Debug\net6.0\metodoM.csproj.CoreCompileInputs.cache
+C:\Users\Nahum\Documents\IO2\metodoM\metodoM\obj\Debug\net6.0\metodoM.dll
+C:\Users\Nahum\Documents\IO2\metodoM\metodoM\obj\Debug\net6.0\refint\metodoM.dll
+C:\Users\Nahum\Documents\IO2\metodoM\metodoM\obj\Debug\net6.0\metodoM.pdb
+C:\Users\Nahum\Documents\IO2\metodoM\metodoM\obj\Debug\net6.0\metodoM.genruntimeconfig.cache
+C:\Users\Nahum\Documents\IO2\metodoM\metodoM\obj\Debug\net6.0\ref\metodoM.dll
